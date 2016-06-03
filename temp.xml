@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hierarchy rotation="0">
+	<android.widget.FrameLayout index="0" text=""
+		class="android.widget.FrameLayout" package="com.android.chrome"
+		content-desc="" checkable="false" checked="false" clickable="false"
+		enabled="true" focusable="false" focused="false" scrollable="false"
+		long-clickable="false" password="false" selected="false" bounds="[0,0][1440,2560]"
+		resource-id="" instance="0">
+		<android.widget.FrameLayout index="0" text=""
+			class="android.widget.FrameLayout" package="com.android.chrome"
+			content-desc="" checkable="false" checked="false" clickable="false"
+			enabled="true" focusable="false" focused="false" scrollable="false"
+			long-clickable="false" password="false" selected="false" bounds="[0,0][1440,2560]"
+			resource-id="android:id/windowContentFrame" instance="1">
+			<android.widget.LinearLayout index="0"
+				text="" class="android.widget.LinearLayout" package="com.android.chrome"
+				content-desc="" checkable="false" checked="false" clickable="false"
+				enabled="true" focusable="false" focused="false" scrollable="false"
+				long-clickable="false" password="false" selected="false" bounds="[0,0][1440,2560]"
+				resource-id="" instance="0">
+				<android.widget.FrameLayout index="0"
+					text="" class="android.widget.FrameLayout" package="com.android.chrome"
+					content-desc="" checkable="false" checked="false" clickable="false"
+					enabled="true" focusable="false" focused="false" scrollable="false"
+					long-clickable="false" password="false" selected="false"
+					bounds="[0,84][1440,2560]" resource-id="" instance="2">
+					<android.widget.FrameLayout index="0"
+						text="" class="android.widget.FrameLayout" package="com.android.chrome"
+						content-desc="" checkable="false" checked="false" clickable="false"
+						enabled="true" focusable="false" focused="false" scrollable="false"
+						long-clickable="false" password="false" selected="false"
+						bounds="[0,84][1440,2560]" resource-id="com.android.chrome:id/action_bar_root"
+						instance="3">
+						<android.widget.FrameLayout index="0"
+							text="" class="android.widget.FrameLayout" package="com.android.chrome"
+							content-desc="" checkable="false" checked="false" clickable="false"
+							enabled="true" focusable="false" focused="false" scrollable="false"
+							long-clickable="false" password="false" selected="false"
+							bounds="[0,84][1440,2560]" resource-id="android:id/content"
+							instance="4">
+							<android.widget.LinearLayout index="0"
+								text="" class="android.widget.LinearLayout" package="com.android.chrome"
+								content-desc="" checkable="false" checked="false" clickable="false"
+								enabled="true" focusable="false" focused="false" scrollable="false"
+								long-clickable="false" password="false" selected="false"
+								bounds="[0,84][1440,2560]" resource-id="" instance="1">
+								<android.widget.FrameLayout index="0"
+									text="" class="android.widget.FrameLayout" package="com.android.chrome"
+									content-desc="" checkable="false" checked="false" clickable="false"
+									enabled="true" focusable="false" focused="false" scrollable="false"
+									long-clickable="false" password="false" selected="false"
+									bounds="[0,84][1440,2560]" resource-id="com.android.chrome:id/compositor_view_holder"
+									instance="5">
+									<android.view.View index="0" text=""
+										class="android.view.View" package="com.android.chrome"
+										content-desc="" checkable="false" checked="false" clickable="false"
+										enabled="true" focusable="false" focused="false" scrollable="false"
+										long-clickable="false" password="false" selected="false"
+										bounds="[0,84][1440,2560]" resource-id="" instance="0" />
+									<android.widget.FrameLayout index="1"
+										text="" class="android.widget.FrameLayout" package="com.android.chrome"
+										content-desc="" checkable="false" checked="false" clickable="false"
+										enabled="true" focusable="false" focused="false" scrollable="false"
+										long-clickable="false" password="false" selected="false"
+										bounds="[0,84][1440,2560]" resource-id="" instance="6">
+										<android.widget.FrameLayout index="0"
+											text="" class="android.widget.FrameLayout" package="com.android.chrome"
+											content-desc="" checkable="false" checked="false" clickable="false"
+											enabled="true" focusable="false" focused="false" scrollable="false"
+											long-clickable="false" password="false" selected="false"
+											bounds="[0,84][1440,2560]" resource-id="" instance="7">
+											<android.webkit.WebView index="0"
+												text="" class="android.webkit.WebView" package="com.android.chrome"
+												content-desc="欢迎登录 - 新浪微博" checkable="false" checked="false"
+												clickable="false" enabled="true" focusable="true" focused="true"
+												scrollable="true" long-clickable="false" password="false"
+												selected="false" bounds="[0,280][1440,2560]" resource-id=""
+												instance="0">
+												<android.view.View index="0" text=""
+													class="android.view.View" package="com.android.chrome"
+													content-desc="" checkable="false" checked="false"
+													clickable="false" enabled="true" focusable="false" focused="false"
+													scrollable="false" long-clickable="false" password="false"
+													selected="false" bounds="[528,1592][913,1659]" resource-id=""
+													instance="1">
+													<android.view.View index="0" text=""
+														class="android.view.View" package="com.android.chrome"
+														content-desc="体验微博客户端&gt;&gt;" checkable="false" checked="false"
+														clickable="true" enabled="true" focusable="true" focused="false"
+														scrollable="false" long-clickable="false" password="false"
+														selected="false" bounds="[528,1603][913,1659]"
+														resource-id="J-call-app" instance="2" />
+												</android.view.View>
+												<android.view.View index="1" text=""
+													class="android.view.View" package="com.android.chrome"
+													content-desc="注册" checkable="false" checked="false"
+													clickable="true" enabled="true" focusable="true" focused="false"
+													scrollable="false" long-clickable="false" password="false"
+													selected="false" bounds="[38,1711][696,1865]" resource-id=""
+													instance="3" />
+												<android.view.View index="2" text=""
+													class="android.view.View" package="com.android.chrome"
+													content-desc="登录" checkable="false" checked="false"
+													clickable="true" enabled="true" focusable="true" focused="false"
+													scrollable="false" long-clickable="false" password="false"
+													selected="false" bounds="[745,1711][1403,1865]"
+													resource-id="" instance="4" />
+												<android.view.View index="3" text=""
+													class="android.view.View" package="com.android.chrome"
+													content-desc="使用QQ号码登录" checkable="false" checked="false"
+													clickable="true" enabled="true" focusable="true" focused="false"
+													scrollable="false" long-clickable="false" password="false"
+													selected="false" bounds="[38,1918][1403,2075]" resource-id="QQ-login"
+													instance="5" />
+											</android.webkit.WebView>
+										</android.widget.FrameLayout>
+									</android.widget.FrameLayout>
+								</android.widget.FrameLayout>
+							</android.widget.LinearLayout>
+							<android.widget.FrameLayout index="1"
+								text="" class="android.widget.FrameLayout" package="com.android.chrome"
+								content-desc="" checkable="false" checked="false" clickable="false"
+								enabled="true" focusable="false" focused="false" scrollable="false"
+								long-clickable="false" password="false" selected="false"
+								bounds="[0,84][1440,315]" resource-id="com.android.chrome:id/control_container"
+								instance="8">
+								<android.widget.FrameLayout index="0"
+									text="" class="android.widget.FrameLayout" package="com.android.chrome"
+									content-desc="" checkable="false" checked="false" clickable="false"
+									enabled="true" focusable="false" focused="false" scrollable="false"
+									long-clickable="false" password="false" selected="false"
+									bounds="[0,84][1440,315]" resource-id="com.android.chrome:id/toolbar_container"
+									instance="9">
+									<android.widget.FrameLayout index="0"
+										text="" class="android.widget.FrameLayout" package="com.android.chrome"
+										content-desc="" checkable="false" checked="false" clickable="false"
+										enabled="true" focusable="false" focused="false" scrollable="false"
+										long-clickable="false" password="false" selected="false"
+										bounds="[0,84][1440,280]" resource-id="com.android.chrome:id/toolbar"
+										instance="10">
+										<android.widget.ImageButton index="0"
+											text="" class="android.widget.ImageButton" package="com.android.chrome"
+											content-desc="首页" checkable="false" checked="false"
+											clickable="true" enabled="true" focusable="true" focused="false"
+											scrollable="false" long-clickable="true" password="false"
+											selected="false" bounds="[0,84][168,280]" resource-id="com.android.chrome:id/home_button"
+											instance="0" />
+										<android.widget.FrameLayout index="1"
+											text="" class="android.widget.FrameLayout" package="com.android.chrome"
+											content-desc="" checkable="false" checked="false" clickable="false"
+											enabled="true" focusable="false" focused="false" scrollable="false"
+											long-clickable="false" password="false" selected="false"
+											bounds="[196,84][1083,280]" resource-id="com.android.chrome:id/location_bar"
+											instance="11">
+											<android.view.ViewGroup index="0"
+												text="" class="android.view.ViewGroup" package="com.android.chrome"
+												content-desc="" checkable="false" checked="false" clickable="true"
+												enabled="true" focusable="false" focused="false" scrollable="false"
+												long-clickable="false" password="false" selected="false"
+												bounds="[204,123][1075,241]" resource-id="com.android.chrome:id/url_container"
+												instance="0">
+												<android.widget.EditText index="0"
+													text="https://passport.weibo.cn/signin/welcome?entry=mweibo&amp;r=http%3A%2F%2Fm.weibo.cn%2F%3Fjumpfrom%3Dwapv4%26tip%3D1&amp;wm=3349&amp;vt=4"
+													class="android.widget.EditText" package="com.android.chrome"
+													content-desc="" checkable="false" checked="false"
+													clickable="true" enabled="true" focusable="true" focused="false"
+													scrollable="false" long-clickable="true" password="false"
+													selected="false" bounds="[204,123][1075,241]" resource-id="com.android.chrome:id/url_bar"
+													instance="0" />
+											</android.view.ViewGroup>
+										</android.widget.FrameLayout>
+										<android.widget.LinearLayout
+											index="2" text="" class="android.widget.LinearLayout"
+											package="com.android.chrome" content-desc="" checkable="false"
+											checked="false" clickable="false" enabled="true" focusable="false"
+											focused="false" scrollable="false" long-clickable="false"
+											password="false" selected="false" bounds="[1111,84][1440,280]"
+											resource-id="com.android.chrome:id/toolbar_buttons" instance="2">
+											<android.widget.ImageButton index="0"
+												text="" class="android.widget.ImageButton" package="com.android.chrome"
+												content-desc="1 个打开的标签页" checkable="false" checked="false"
+												clickable="true" enabled="true" focusable="true" focused="false"
+												scrollable="false" long-clickable="true" password="false"
+												selected="false" bounds="[1125,84][1293,280]"
+												resource-id="com.android.chrome:id/tab_switcher_button"
+												instance="1" />
+											<android.widget.FrameLayout index="1"
+												text="" class="android.widget.FrameLayout" package="com.android.chrome"
+												content-desc="" checkable="false" checked="false" clickable="false"
+												enabled="true" focusable="false" focused="false" scrollable="false"
+												long-clickable="false" password="false" selected="false"
+												bounds="[1293,84][1440,280]" resource-id="com.android.chrome:id/menu_button_wrapper"
+												instance="12">
+												<android.widget.ImageButton
+													index="0" text="" class="android.widget.ImageButton"
+													package="com.android.chrome" content-desc="更多选项" checkable="false"
+													checked="false" clickable="true" enabled="true" focusable="true"
+													focused="false" scrollable="false" long-clickable="false"
+													password="false" selected="false" bounds="[1293,84][1440,280]"
+													resource-id="com.android.chrome:id/menu_button" instance="2" />
+											</android.widget.FrameLayout>
+										</android.widget.LinearLayout>
+									</android.widget.FrameLayout>
+									<android.widget.ImageView index="1"
+										text="" class="android.widget.ImageView" package="com.android.chrome"
+										content-desc="" checkable="false" checked="false" clickable="false"
+										enabled="true" focusable="false" focused="false" scrollable="false"
+										long-clickable="false" password="false" selected="false"
+										bounds="[0,280][1440,315]" resource-id="com.android.chrome:id/toolbar_shadow"
+										instance="0" />
+								</android.widget.FrameLayout>
+							</android.widget.FrameLayout>
+						</android.widget.FrameLayout>
+					</android.widget.FrameLayout>
+				</android.widget.FrameLayout>
+			</android.widget.LinearLayout>
+		</android.widget.FrameLayout>
+	</android.widget.FrameLayout>
+</hierarchy>
